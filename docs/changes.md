@@ -1,4 +1,4 @@
-# Magisk Changelog
+# Magisk C hangelog
 
 ### v27.0
 
